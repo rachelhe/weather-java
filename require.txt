@@ -1,0 +1,13 @@
+It collects weather observations from various stations.  The application has some end points for recording and querying the data as described in the README.
+
+Add the following functionality to the application
+
+1.       An endpoint to query the service for min,
+
+2.       max and avg temperature for a station
+
+3.       An endpoint to query the service for min,
+
+4.       max and avg temperature for a station for the given date range
+
+5.       Test cases for the implementations (you may update/modify the test cases for the existing end points)
